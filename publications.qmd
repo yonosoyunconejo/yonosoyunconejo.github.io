@@ -1,0 +1,32 @@
+---
+title: "Publications"
+format: html
+---
+
+*If you are unable to access any of my work from this page and would like a copy, feel free to [contact](index.qmd#contact) me.*
+
+# Articles and chapters
+
+Gopal, Deepthi & [Stephen Nichols]{.underline}. Under revision. Naturalness and phonetic grounding in Turkish vowel-height rules.
+
+Coretta, Stefano, Josiane Riverin-Coutlée, Enkeleida Kapia & [Stephen Nichols]{.underline}. 2023. Northern Tosk Albanian \[IPA Illustration\]. *Journal of the International Phonetic Association* 53(3). 1122--44. DOI: [10.1017/S0025100322000044](https://doi.org/10.1017/S0025100322000044){target="_blank"}.
+
+Jeon, Hae-Sung & [Stephen Nichols]{.underline}. 2022. Investigating Prosodic Variation in British English Varieties using *ProPer*. *Interspeech 2022*, 1313--7. DOI: [10.21437/interspeech.2022-792](https://doi.org/10.21437/interspeech.2022-792){target="_blank"}.
+
+Bailey, George, [Stephen Nichols]{.underline}, Maciej Baranowski & Danielle Turton. 2022. Affrication as the cause of /s/-retraction: Evidence from Manchester English. *Glossa: a journal of general linguistics* 7(1). 1--30. DOI: [10.16995/glossa.8026](https://doi.org/10.16995/glossa.8026){target="_blank"}.
+
+[Nichols, Stephen]{.underline}. 2021. Asymmetries in vowel-pair frequencies and height harmony in Bantu. In Akinbiyi Akinlabi et al. (eds.), *Celebrating 50 years of ACAL: Selected Papers from the 50^th^ Annual Conference on African Linguistics* (Contemporary African Linguistics 7), 245--59. Berlin: Language Science Press. DOI: [10.5281/zenodo.5578838](https://doi.org/10.5281/zenodo.5578838){target="_blank"}.
+
+Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & [Stephen Nichols]{.underline}. 2021. States and changes of state: A cross-linguistic study of the roots of verbal meaning. *Language* 97(3). 439--84. DOI: [10.1353/lan.2021.0044](https://doi.org/10.1353/lan.2021.0044){target="_blank"}.
+
+Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & [Stephen Nichols]{.underline}. 2017. Two types of states: A cross-linguistic study of change-of-state verb roots. *Proceedings of the Annual Meeting of the Linguistics Society of America* 91. 1--15. DOI: [10.3765/plsa.v2i0.4094](https://doi.org/10.3765/plsa.v2i0.4094){target="_blank"}.
+
+# Theses and dissertations
+
+[Nichols, Stephen]{.underline}. 2021. Explorations in the phonology, typology and grounding of height harmony in five-vowel Bantu languages. PhD thesis, University of Manchester. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](https://research.manchester.ac.uk/files/196051804/FULL_TEXT.PDF){target="_blank" title="Download full thesis"}
+
+[Nichols, Stephen]{.underline}. 2015. Topics in the phonology of Konai, a Papuan language of New Guinea. MA dissertation, University of Manchester. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2015-dissertation-abstract.pdf){target="_blank" title="Download abstract"}
+
+# Comments and discussion
+
+[Nichols, Stephen]{.underline}. 2020. Discussion in Nancy C. Kula & Nasir A. Syed (authors) 'Non-myopic nasal spreading in Saraiki'. *Radical: A Journal of Phonology*, 1, 179--82. [<i class="fa-solid fa-arrow-up-right-from-square" style="color: $link-color;"></i>](https://radical.cnrs.fr/kula-syed-non-myopic-nasal-spreading-in-saraiki/){target="_blank" title="Go to paper"}

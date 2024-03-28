@@ -1,0 +1,24 @@
+---
+title: "Welcome"
+format: html
+---
+
+*I'm a phonetician and phonologist interested in experimental and quantitative methods, sound change and the phonetics–phonology interface as well as linguistic typology and under-represented languages.*
+
+# About me
+
+I am a postdoctoral researcher in Linguistics and English Language at the University of Edinburgh working on the project "[The trajectory and distributional typology of phonological change](https://www.rj.se/en/grants/2023/the-trajectory-and-distributional-typology-of-phonological-change/)" \["[Den fonologiska förändringens utveckling och distribution](https://www.rj.se/anslag/2023/den-fonologiska-forandringens-utveckling-och-distribution/)"\] funded by Riksbankens Jubileumsfond (ref. P23-0791) in collaboration with László Karoly (PI) and Deepthi Gopal at Uppsala University and Pavel Iosad also at the University of Edinburgh. The project explores issues relating to sound change—in particular the mechanisms underlying "rule generalisation" in the [life cycle of phonological processes](http://www.bermudez-otero.com/Stratal_Optimality_Theory.htm#life%20cycle)—using both existing and newly-collected phonetic and phonological data from several Turkic languages.
+
+Prior to my current role, I was a Departmental Lecturer in Phonetics and Phonology in the Faculty of Linguistics, Philology and Phonetics at the University of Oxford (2021–22) and a Research Fellow in the Department of Language and Linguistics at the University of Essex (2021–22) where I also went on to teach courses on morphosyntactic typology and African languages (2022–23). I received my PhD in Linguistics from the University of Manchester in 2021.
+
+A core theme of my research is the investigation of sound change and the relationship between phonetics and phonology using experimental and quantitative methods. In addition to this, I have worked on more strictly formal approaches to synchronic phonological problems (especially processes of harmony and dissimilation). I am also interested, more generally speaking, in under-documented, under-investigated and under-represented languages as well as various aspects of descriptive linguistics and linguistic typology.
+
+My PhD project—supervised by Wendell Kimper and Ricardo Bermúdez-Otero (and previously Yuni Kim)—employed vowel-pair-frequency and acoustic production data to explore the phonology, typology and grounding of vowel height harmony in the Bantu languages, with a focus on the five-vowel languages in the family (e.g. Swahili, Shona, Kinyarwanda) as well as those spoken in Zambia (in particular Bemba, Lozi, Nyanja).
+
+I have also worked on languages including Ihanzu (Bantu, Niger–Congo; Tanzania; with guidance from Andrew Harvey), Amuzgo (Oto-Manguean; Mexico; with Yuni Kim, Bien Dobui, Natalia Hernández and Jair Apóstol Polanco), Huave (isolate; Mexico; with Yuni Kim), Turkish (with Deepthi Gopal), Albanian (with Stefano Coretta, Josiane Riverin-Coutlée and Enkeleida Kapia) and Manchester English (with George Bailey).
+
+Even when not working, I spend a lot of time around languages. I love to learn new ones—both living and dead—and have tried my hand at two or three dozen (to varying degrees of success and failure).
+
+# Contact
+
+I can be reached by e-mail at: `stephen​(dot)​nichols​(at)​ed​(dot)​ac​(dot)​uk`.

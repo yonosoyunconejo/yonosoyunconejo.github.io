@@ -1,0 +1,37 @@
+project:
+ type: website
+ output-dir: docs
+
+website:
+ title: "Stephen Nichols"
+ site-url: https://stephen-nichols.me/
+ favicon: assets/favicon/favicon.ico
+ twitter-card: true
+ page-footer: "© 2024– [Stephen Nichols](https://stephen-nichols.me/) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · Powered by [Quarto](https://quarto.org/)"
+ navbar:
+  collapse-below: xl
+  right:
+   - text: "{{< fa solid graduation-cap size=lg >}}"
+     href: https://scholar.google.com/citations?user=Yi3686kAAAAJ
+   - text: "{{< fa brands orcid size=lg >}}"
+     href: https://orcid.org/0000-0001-8918-1474
+   - text: "{{< fa brands github size=lg >}}"
+     href: https://github.com/yonosoyunconejo
+ sidebar:
+   style: "docked"
+   contents:
+    - index.qmd
+    - publications.qmd
+    - talks-and-posters.qmd
+    - cv.qmd
+
+format:
+ html:
+  page-layout: article
+  css: assets/custom.css
+  theme:
+   light: assets/light.scss
+   dark: assets/dark.scss
+  toc: true
+
+editor: source
