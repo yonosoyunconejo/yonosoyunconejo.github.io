@@ -1,1 +1,1 @@
-Sitemap: https://yonosoyunconejo.github.io/stephen-nichols/sitemap.xml
+Sitemap: https://stephen-nichols.me/sitemap.xml
