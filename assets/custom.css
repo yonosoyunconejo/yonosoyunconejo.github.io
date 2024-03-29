@@ -84,17 +84,9 @@
 
 /* STYLE */
 
-/*
-#quarto-document-content {
-  margin-right: 10%;
-  margin-left: 10%;
-}
-*/
-
 .navbar-title {
-  font-weight: bold;
-  text-align: left;
   font-size: 1.9rem;
+  font-weight: bold;
 }
 
 .title {
@@ -146,4 +138,16 @@ a:hover {
 
 a:active {
   text-decoration: none;
+}
+
+.nav-footer-left {
+  flex: 0 1 0px;
+}
+
+.nav-footer-center p {
+  text-align: center;
+}
+
+.nav-footer-right {
+    flex: 0 1 0px;
 }

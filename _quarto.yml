@@ -6,6 +6,7 @@ website:
  title: "Stephen Nichols"
  site-url: https://stephen-nichols.me/
  favicon: assets/favicon/favicon.ico
+ bread-crumbs: false
  twitter-card: true
  page-footer: "© 2024– [Stephen Nichols](https://stephen-nichols.me/) · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · Powered by [Quarto](https://quarto.org/)"
  navbar:
@@ -28,6 +29,8 @@ website:
 format:
  html:
   page-layout: article
+  grid:
+   gutter-width: 3rem
   css: assets/custom.css
   theme:
    light: assets/light.scss
