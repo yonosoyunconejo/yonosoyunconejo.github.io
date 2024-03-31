@@ -25,6 +25,8 @@ website:
     - publications.qmd
     - talks-and-posters.qmd
     - cv.qmd
+    - text: "Vowel classifier"
+      href: http://www.stephen-nichols.me/vowel-classifier/
 
 format:
  html:
