@@ -1,6 +1,10 @@
 project:
  type: website
  output-dir: docs
+ resources:
+  - CNAME
+  - files
+  - .nojekyll
 
 website:
  title: "Stephen Nichols"
@@ -25,8 +29,12 @@ website:
     - publications.qmd
     - talks-and-posters.qmd
     - cv.qmd
-    - text: "Vowel classifier"
-      href: http://www.stephen-nichols.me/vowel-classifier/
+    - text: "Resources"
+      contents:
+      - text: "Glossonaut WALS"
+        href: https://www.stephen-nichols.me/glossonaut/
+      - text: "Vowel classifier"
+        href: http://www.stephen-nichols.me/vowel-classifier/
 
 format:
  html:
