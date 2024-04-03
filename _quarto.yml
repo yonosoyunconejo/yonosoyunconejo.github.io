@@ -31,10 +31,12 @@ website:
     - cv.qmd
     - text: "Resources"
       contents:
+      - text: "Glossonaut PHOIBLE"
+        href: https://www.stephen-nichols.me/glossonaut/phoible.html
       - text: "Glossonaut WALS"
-        href: https://www.stephen-nichols.me/glossonaut/
+        href: https://www.stephen-nichols.me/glossonaut/wals.html
       - text: "Vowel classifier"
-        href: http://www.stephen-nichols.me/vowel-classifier/
+        href: https://www.stephen-nichols.me/vowel-classifier/
 
 format:
  html:
