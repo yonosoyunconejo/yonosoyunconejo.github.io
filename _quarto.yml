@@ -21,6 +21,10 @@ website:
    # - text: "{{< fa brands google-scholar size=lg >}}"
    - text: "{{< fa solid graduation-cap size=lg >}}"
      href: https://scholar.google.com/citations?user=Yi3686kAAAAJ
+   # - text: "{{< fa brands researchgate size=lg >}}"
+   #   href: https://www.researchgate.net/profile/Stephen-Nichols
+   # - text: "{{< fa brands academia size=lg >}}"
+   #   href: https://edinburgh.academia.edu/StephenNichols
    - text: "{{< fa brands orcid size=lg >}}"
      href: https://orcid.org/0000-0001-8918-1474
    - text: "{{< fa brands github size=lg >}}"

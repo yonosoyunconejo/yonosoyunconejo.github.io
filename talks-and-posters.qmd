@@ -69,7 +69,9 @@ Gopal, Deepthi & [Stephen Nichols]{.underline}. 2016. Sonorant-conditioned mid v
 
 # Conference posters
 
-[Stephen Nichols]{.underline}. 2024. Towards a phonetically-informed description of vowel harmony in Ihanzu. Poster presented at the Colloquium of the British Association of Academic Phoneticians, Cardiff, UK, 25--27 March. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2024-baap-ihanzu.pdf){target="_blank" title="Download poster"}
+[Nichols, Stephen]{.underline}. 2024. Towards a phonetically-informed description of vowel harmony in Ihanzu. Poster presented at the Réseau Français de Phonologie, Amiens, France, 26--28 June. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2024-rfp-ihanzu.pdf){target="_blank" title="Download poster"}
+
+[Nichols, Stephen]{.underline}. 2024. Towards a phonetically-informed description of vowel harmony in Ihanzu. Poster presented at the Colloquium of the British Association of Academic Phoneticians, Cardiff, UK, 25--27 March. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2024-baap-ihanzu.pdf){target="_blank" title="Download poster"}
 
 Gopal, Deepthi & [Stephen Nichols]{.underline}. 2022. Variation, gradience and categoricity in the Turkish mid vowels. Poster presented virtually at the Colloquium of the British Association of Academic Phoneticians, York, 4--8 April. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2022-baap-turkish.pdf){target="_blank" title="Download poster"}
 
