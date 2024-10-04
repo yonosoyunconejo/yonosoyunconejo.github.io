@@ -91,6 +91,8 @@ Gopal, Deepthi, Henri Kauhanen & [Stephen Nichols]{.underline}. 2017. Modelling 
 
 # Other talks
 
+[Nichols, Stephen]{.underline}. 2024. Word-initial NC sequences in two varieties of Amuzgo. Talk given at the University of Edinburgh's P-Workshop, Edinburgh, UK, 4 October [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2024-pworkshop-amuzgo.pdf){target="_blank" title="Download slides"}
+
 [Nichols, Stephen]{.underline}. 2022. Making the most of existing tools for the forced-alignment and segmentation of under-resourced languages. Talk given at the University of Oxford's Lab Skills Workshop series, Oxford, UK, 4 March. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2022-labskills-sppas.pdf){target="_blank" title="Download slides"}
 
 Kapia, Enkeleida, Josiane Riverin-Coutlée, [Stephen Nichols]{.underline} & Stefano Coretta. 2021. Expecting the unexpected: (Re)discovered variation in Albanian phonetics. Talk given virtually at the Institute of Phonetics and Speech Processing Kolloquium, Munich, Germany, 6 May. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2021-kolloq-shqipa.pdf){target="_blank" title="Download slides"}
