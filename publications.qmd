@@ -9,6 +9,9 @@ format: html
 
 Gopal, Deepthi & [Stephen Nichols]{.underline}. Under revision. Naturalness and phonetic grounding in Turkish vowel-height rules.
 
+Koontz-Garboden, Andrew, Emily Hanink, Jens Hopperdietzel, Colin Bannard, Margit Bowler,
+Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & [Stephen Nichols]{.underline}. Accepted. Verbhood and state/change of state lability across languages. *Glossa: a journal of general linguistics*.
+
 Coretta, Stefano, Josiane Riverin-Coutlée, Enkeleida Kapia & [Stephen Nichols]{.underline}. 2023. Northern Tosk Albanian \[IPA Illustration\]. *Journal of the International Phonetic Association* 53(3). 1122--44. DOI: [10.1017/S0025100322000044](https://doi.org/10.1017/S0025100322000044){target="_blank"}.
 
 Jeon, Hae-Sung & [Stephen Nichols]{.underline}. 2022. Investigating Prosodic Variation in British English Varieties using *ProPer*. *Interspeech 2022*, 1313--7. DOI: [10.21437/interspeech.2022-792](https://doi.org/10.21437/interspeech.2022-792){target="_blank"}.
