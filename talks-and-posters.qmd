@@ -19,7 +19,7 @@ format: html
 
 Iosad, Pavel, Deepthi Gopal, [Stephen Nichols]{.underline} & László Károly. 2025. Microvariation in Turkic laryngeal systems: synchrony and diachrony. Talk to be given at the 31^st^ Manchester Phonology Meeting, Manchester, UK, 29--31 May.
 
-Gopal, Deepthi, [Stephen Nichols]{.underline}, László Károly & Pavel Iosad. 2025. Length and gradience in Dolgan rounding harmony. Talk given at the Old World Conference in Phonology Workshop on Vowel Harmony, Leiden, Netherlands, 4 February. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2025-ocp-dolganh.pdf){target="_blank" title="Download slides"}
+Gopal, Deepthi, [Stephen Nichols]{.underline}, László Károly & Pavel Iosad. 2025. Length and gradience in Dolgan rounding harmony. Talk given at the Old World Conference in Phonology Workshop on Vowel Harmony, Leiden, Netherlands, 4 February. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2025-ocp-dolgan.pdf){target="_blank" title="Download slides"}
 
 [Nichols, Stephen]{.underline}. 2023. Investigating vowel harmony in Ihanzu. Talk given virtually at the Ihanzu Symposium, Bielefeld, Germany, 29 September. DOI: [10.5281/zenodo.8393386](https://doi.org/10.5281/zenodo.8393386){target="_blank"}. [<i class="fa-solid fa-file-pdf" style="color: $link-color;"></i>](files/2023-ihanzu-vh.pdf){target="_blank" title="Download slides"} [<i class="fa-brands fa-youtube" style="color: $link-color;"></i>](https://youtu.be/6r82XQraxVE){target="_blank" title="Watch on YouTube"}
 
