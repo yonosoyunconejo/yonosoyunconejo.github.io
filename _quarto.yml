@@ -18,20 +18,27 @@ website:
   right:
    - text: "{{< fa solid building-columns size=lg >}}"
      href: https://www.ed.ac.uk/profile/stephen-nichols
+     target: "_blank"
    # - text: "{{< fa brands google-scholar size=lg >}}"
    - text: "{{< fa solid graduation-cap size=lg >}}"
      href: https://scholar.google.com/citations?user=Yi3686kAAAAJ
+     target: "_blank"
    # - text: "{{< fa brands researchgate size=lg >}}"
    #   href: https://www.researchgate.net/profile/Stephen-Nichols
+   #   target: "_blank"
    # - text: "{{< fa brands academia size=lg >}}"
    #   href: https://edinburgh.academia.edu/StephenNichols
+   #   target: "_blank"
    - text: "{{< fa brands orcid size=lg >}}"
      href: https://orcid.org/0000-0001-8918-1474
+     target: "_blank"
    - text: "{{< fa brands github size=lg >}}"
      href: https://github.com/yonosoyunconejo
+     target: "_blank"
    # - text: "{{< fa brands osf size=lg >}}"
    - text: "{{< fa solid atom size=lg >}}"
      href: https://osf.io/t2g6j/
+     target: "_blank"
  sidebar:
    style: "docked"
    contents:
@@ -43,10 +50,13 @@ website:
       contents:
       - text: "Glossonaut PHOIBLE"
         href: https://www.stephen-nichols.me/glossonaut/phoible.html
+        target: "_blank"
       - text: "Glossonaut WALS"
         href: https://www.stephen-nichols.me/glossonaut/wals.html
+        target: "_blank"
       - text: "Vowel classifier"
         href: https://www.stephen-nichols.me/vowel-classifier/
+        target: "_blank"
 
 format:
  html:

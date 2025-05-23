@@ -10,7 +10,7 @@ format: html
 Gopal, Deepthi & [Stephen Nichols]{.underline}. Under revision. Naturalness and phonetic grounding in Turkish vowel-height rules.
 
 Koontz-Garboden, Andrew, Emily Hanink, Jens Hopperdietzel, Colin Bannard, Margit Bowler,
-Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & [Stephen Nichols]{.underline}. Accepted. Verbhood and state/change of state lability across languages. *Glossa: a journal of general linguistics*.
+Michael Everdell, Itamar Francez, Kyle Jerro, Elise LeBovidge & [Stephen Nichols]{.underline}. 2025. Verbhood and state/change of state lability across languages. *Glossa: a journal of general linguistics*. 10(1). 1--41. DOI: [10.16995/glossa.10003](https://doi.org/10.16995/glossa.10003){target="_blank"}.
 
 Coretta, Stefano, Josiane Riverin-Coutlée, Enkeleida Kapia & [Stephen Nichols]{.underline}. 2023. Northern Tosk Albanian \[IPA Illustration\]. *Journal of the International Phonetic Association* 53(3). 1122--44. DOI: [10.1017/S0025100322000044](https://doi.org/10.1017/S0025100322000044){target="_blank"}.
 

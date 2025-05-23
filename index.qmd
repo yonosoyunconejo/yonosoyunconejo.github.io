@@ -3,7 +3,7 @@ title: "Welcome"
 format: html
 ---
 
-*I'm a phonetician and phonologist interested in experimental and quantitative methods, sound change and the phonetics–phonology interface as well as linguistic typology and under-represented languages.*
+*I'm a phonetician and phonologist specialising in experimental approaches to the study of sound change and the phonetics–phonology interface with additional interests linguistic typology and under-represented languages.*
 
 # About me
 
@@ -15,7 +15,7 @@ A core theme of my research is the investigation of sound change and the relatio
 
 My PhD project—supervised by Wendell Kimper and Ricardo Bermúdez-Otero (and previously Yuni Kim)—employed vowel-pair-frequency and acoustic production data to explore the phonology, typology and grounding of vowel height harmony in the Bantu languages, with a focus on the five-vowel languages in the family (e.g. Swahili, Shona, Kinyarwanda) as well as those spoken in Zambia (in particular Bemba, Lozi, Nyanja).
 
-I have also worked on languages including Ihanzu (Bantu, Niger–Congo; Tanzania; with guidance from Andrew Harvey), Amuzgo (Oto-Manguean; Mexico; with Yuni Kim, Bien Dobui, Natalia Hernández and Jair Apóstol Polanco), Huave (isolate; Mexico; with Yuni Kim), Turkish (with Deepthi Gopal), Albanian (with Stefano Coretta, Josiane Riverin-Coutlée and Enkeleida Kapia) and Manchester English (with George Bailey).
+I have also worked on languages including Ihanzu (Bantu, Niger–Congo; Tanzania; with Andrew Harvey), Amuzgo (Oto-Manguean; Mexico; with Yuni Kim, Bien Dobui, Natalia Hernández and Jair Apóstol Polanco), Huave (isolate; Mexico; with Yuni Kim), Turkish (with Deepthi Gopal), Albanian (with Stefano Coretta, Josiane Riverin-Coutlée and Enkeleida Kapia) and Manchester English (with George Bailey).
 
 Even when not working, I spend a lot of time around languages. I love to learn new ones—both living and dead—and have tried my hand at two or three dozen (to varying degrees of success and failure).
 
